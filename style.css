@@ -1,7 +1,4 @@
 div{
-    margin: auto;
-    margin-top: 50px;
-    margin-bottom: 50px;
     background: hsl(0, 0%, 100%);
     max-width: 350px;
     height: 500px;
@@ -11,6 +8,10 @@ div{
    body{
     background: hsl(212, 45%, 89%);
     font-size: 15px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    }
    img{
     max-width: 330px;
