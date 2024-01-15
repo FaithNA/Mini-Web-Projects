@@ -1,2 +1,2 @@
 # Mini-Web-Projects
-Beginner level projects in web programming languages
+Beginner level QR Codeproject in web programming languages
